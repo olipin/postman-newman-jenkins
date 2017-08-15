@@ -8,7 +8,7 @@
   "scripts": {
     "api-tests-production": "newman run tests/Jsonplaceholder.com.postman_collection.json"
   },
-  "author": "Oliver Pinev",
+  "author": "Oliver Pinevv",
   "dependencies": {
     "newman": "^3.8.0"
   }
